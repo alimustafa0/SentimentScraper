@@ -1,4 +1,4 @@
-# SentimentScraper
+# Sentiment Scraper
 
 Automate sentiment analysis on web reviews using web scraping and NLP. Extract, analyze, and categorize sentiments (positive/negative/neutral) from user reviews.
 
